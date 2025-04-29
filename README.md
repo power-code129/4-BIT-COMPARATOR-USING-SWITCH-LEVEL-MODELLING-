@@ -1,3 +1,4 @@
+# 4-BIT COMPARATOR USING SWITCH LEVEL MODELLING 
 ## AIM: 
 To design and implement a 4-bit comparator using switch-level modeling in Verilog by constructing the circuit with PMOS and NMOS transistors and simulating it to verify the logical functionality. 
 ## APPARATUS REQUIRED: 
